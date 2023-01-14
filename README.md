@@ -12,7 +12,6 @@ https://hoo-bank0.netlify.app/
 - ReactJS
 - javaScript
 - Tailwind 
-- Figma
 
 ## Getting Started
 
